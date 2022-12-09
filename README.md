@@ -14,7 +14,9 @@ Jake Mann (jake.mann@duke.edu)
 Matthew Bloom (matthew.bloom@duke.edu)
 
 ## Technical Mentors: 
+###
 Professor Rebecca Simmons
+###
 Professor Tyler Bletsch 
 
 # Implementation Guide
