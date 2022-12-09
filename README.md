@@ -4,9 +4,13 @@ As a response to a lack of accessible and affordable soccer training products, o
 This product was developed during the Fall 2022 semester as part of ME 491: Product Design at Duke University. 
 
 ## Undergraduate Team: 
+###
 Danny Campbell (daniel.campbell@duke.edu)
+###
 Lelia Jennings (lelia.jennings@duke.edu)
+### 
 Jake Mann (jake.mann@duke.edu)
+### 
 Matthew Bloom (matthew.bloom@duke.edu)
 
 ## Technical Mentors: 
